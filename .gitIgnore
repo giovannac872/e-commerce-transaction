@@ -2,5 +2,5 @@ tmp
 vendor
 .idea
 .env
-credentials.yaml
-.json
+*.yaml
+*.json
