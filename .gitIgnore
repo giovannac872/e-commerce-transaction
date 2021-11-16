@@ -3,4 +3,4 @@ vendor
 .idea
 .env
 *.yaml
-*.json
+*.jso
