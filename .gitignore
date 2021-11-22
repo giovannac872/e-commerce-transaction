@@ -1,6 +1,7 @@
 tmp
+.vscode
 vendor
 .idea
 .env
 *.yaml
-*.jso
+*.json
